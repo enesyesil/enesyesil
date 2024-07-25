@@ -4,11 +4,10 @@
 
 ## 💼 Professional Background
 -Current Position: Research Assistant @ YorkU & Software Developer Intern @ Zyfera
--Recent Internship: Software Developer Intern @ Zyfera
--Skills: Full-stack development, AI application development, Interface design.
+
 
 ## 📫 How to Reach Me
--Email: enesy@my.yorku.ca
+-Email: enesy@my.yorku.ca 
 -LinkedIn: https://www.linkedin.com/in/enes-yesil-723080184/
 
 
