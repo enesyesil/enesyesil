@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm a software developer with a keen interest in Full-stack development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects that leverage my skills in AI, Machine learning, and Full-stack development.
+- I'm a software developer with a keen interest in Full-stack development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects that leverage my skills in AI, Machine learning, and Full-stack development.
 
-💼 Professional Background
-Current Position: Research Assistant @ YorkU & Software Developer Intern @ Zyfera
-Recent Internship: Software Developer Intern @ Zyfera
-Skills: Full-stack development, AI application development, Interface design.
+## 💼 Professional Background
+-Current Position: Research Assistant @ YorkU & Software Developer Intern @ Zyfera
+-Recent Internship: Software Developer Intern @ Zyfera
+-Skills: Full-stack development, AI application development, Interface design.
 
-📫 How to Reach Me
-Email: enesy@my.yorku.ca
-LinkedIn: https://www.linkedin.com/in/enes-yesil-723080184/
+## 📫 How to Reach Me
+-Email: enesy@my.yorku.ca
+-LinkedIn: https://www.linkedin.com/in/enes-yesil-723080184/
 
 
 
