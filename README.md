@@ -3,7 +3,7 @@
 - I'm a software developer with a keen interest in Full-stack development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects that leverage my skills in AI, Machine learning, and Full-stack development.
 
 ## 💼 Professional Background
-- Current Position: Research Assistant @ YorkU & Software Developer Intern @ Zyfera
+- Current Position: Research Assistant @ YorkU 
 
 
 ## 📫 How to Reach Me
