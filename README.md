@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a software developer with a keen interest in Full-stack development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects that leverage my skills in AI, Machine learning, and Full-stack development.
+- I'm a software developer with a keen interest in Full-stack development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects here!
 
 ## 💼 Professional Background
 - Current Position: Research Assistant @ YorkU 
