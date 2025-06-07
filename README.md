@@ -1,29 +1,43 @@
-### Hi there 👋
+# 👋 Hi, I'm Enes Yesil
 
-- I'm a software developer with a keen interest in Software development. Currently, I'm pursuing a Computer Science degree at York University and working on exciting projects here!
+I'm a software developer passionate about building AI/ML and data infrastructure. I enjoy turning complex systems into powerful, usable tools, especially when it comes to automation, and platform engineering. I’m currently studying Computer Science at York University and building real-world systems like Fisor Analytics.
 
-## 💼 Professional Background
-- Current Position: Research Assistant @ YorkU 
+---
+
+## 🧠 What I'm Working On
+
+- **Fisor Analytics** — A multi-tenant AI analytics platform using Go, Python, Apache Spark, and Iceberg. Focused on automating insight generation from public + company data using LLM agents and scalable infra.  
+  → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/enesyesil)
+
+- **CKM** — A cloud-inspired operating system simulator in Go with custom schedulers, memory management, QEMU-based VM orchestration, and real-time observability (Prometheus + Grafana).  
+  → [GitHub](https://github.com/enesyesil/ckm)
+
+- **Backenderer** — A DevOps automation tool that deploys backend apps to AWS using Docker, Nginx, and Terraform pipelines.  
+  → [GitHub](https://github.com/enesyesil/backenderer)
+
+---
+
+## 🛠️ AI & Infra Interests
+
+- **AI Infrastructure**: LLM orchestration, prompt optimization, multi-agent pipelines, OpenAI & Cohere APIs  
+- **Data Infra**: Apache Iceberg, Spark ML, PostgreSQL, Redis, scalable data lakes  
+- **Cloud Infra**: Docker · Terraform · Kubernetes (learning) · Prometheus · Azure · GitHub Actions  
+- **Dev Experience**: Building tools that make analytics and automation easier for teams  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**: Go, Python, TypeScript, Java, Shell, SQL  
+**Frameworks**: React, Next.js, Spring, FastAPI, Svelte  
+**Platforms**: AWS · Azure · PostgreSQL · Vercel · Docker · Prometheus · Grafana · Terraform
+
+---
+
+## 📫 Reach Me
+
+- 📧 [enesy@my.yorku.ca](mailto:enesy@my.yorku.ca)  
+- 🌐 [Portfolio](https://enesyesil.me)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enes-yesil-723080184/)
 
 
-## 📫 How to Reach Me
-- Email: enesy@my.yorku.ca 
-- LinkedIn: https://www.linkedin.com/in/enes-yesil-723080184/
-- Website: https://enesyesil.me
-
-
-
-<!--
-**enesyesil/enesyesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
