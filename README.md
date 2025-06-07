@@ -4,7 +4,7 @@ I'm a software developer passionate about building AI/ML and data infrastructure
 
 ---
 
-## 🧠 What I'm Working On
+##  What I'm Working On
 
 - **Fisor Analytics** — A multi-tenant AI analytics platform using Go, Python, Apache Spark, and Iceberg. Focused on automating insight generation from public + company data using LLM agents and scalable infra.  
   → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/enesyesil)
@@ -17,7 +17,7 @@ I'm a software developer passionate about building AI/ML and data infrastructure
 
 ---
 
-## 🛠️ AI & Infra Interests
+## AI & Infra Interests
 
 - **AI Infrastructure**: LLM orchestration, prompt optimization, multi-agent pipelines, OpenAI & Cohere APIs  
 - **Data Infra**: Apache Iceberg, Spark ML, PostgreSQL, Redis, scalable data lakes  
@@ -26,7 +26,7 @@ I'm a software developer passionate about building AI/ML and data infrastructure
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**: Go, Python, TypeScript, Java, Shell, SQL  
 **Frameworks**: React, Next.js, Spring, FastAPI, Svelte  
@@ -34,7 +34,7 @@ I'm a software developer passionate about building AI/ML and data infrastructure
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
 - 📧 [enesy@my.yorku.ca](mailto:enesy@my.yorku.ca)  
 - 🌐 [Portfolio](https://enesyesil.me)  
