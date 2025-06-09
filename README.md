@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes Yesil
 
-I'm a software developer passionate about building AI/ML and data infrastructure. I enjoy turning complex systems into powerful, usable tools, especially when it comes to automation, and platform engineering. I’m currently studying Computer Science at York University and building real-world systems like Fisor Analytics.
+I'm a software developer passionate about building AI/ML and data infrastructure. I enjoy turning complex systems into powerful, usable tools, especially when it comes to automation and platform engineering. I’m currently studying Computer Science at York University and building real-world systems like Fisor Analytics.
 
 ---
 
