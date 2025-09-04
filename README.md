@@ -1,4 +1,4 @@
-# Hi, I'm Enes
+# Hello, Friend 👋
 
 I’m a final-year Computer Science student at York University interested in infrastructure, data systems, and software engineering. I enjoy building scalable platforms that bring together cloud, system design, and data engineering principles.
 
