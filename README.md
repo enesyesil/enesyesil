@@ -7,7 +7,7 @@ I'm a software developer passionate about building AI/ML and data infrastructure
 ##  What I'm Working On
 
 - **Fisor Analytics** — A multi-tenant AI analytics platform using Go, Python, Apache Spark, and Iceberg. Focused on automating insight generation from public + company data using LLM agents and scalable infra.  
-  → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/enesyesil)
+  → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/Fisor-Analytics)
 
 - **CKM** — A cloud-inspired operating system simulator in Go with custom schedulers, memory management, QEMU-based VM orchestration, and real-time observability (Prometheus + Grafana).  
   → [GitHub](https://github.com/enesyesil/ckm)
