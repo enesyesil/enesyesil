@@ -1,6 +1,6 @@
 # Hello, Friend 👋
 
-I’m a final-year Computer Science student at York University interested in infrastructure, data systems, and software engineering. I enjoy building scalable platforms that bring together cloud, system design, and data engineering principles.
+Final-year CS student at York University, specializing in scalable infrastructure & data, and distributed systems.
 
 ---
 
@@ -20,4 +20,6 @@ I’m a final-year Computer Science student at York University interested in inf
 - 🌐 [Portfolio](https://enesyesil.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/enes-yesil-723080184/)
 
+---
+*Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
 
