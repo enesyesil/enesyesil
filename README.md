@@ -14,33 +14,6 @@ I’m a final-year Computer Science student at York University interested in inf
 
 ---
 
-## Interests  
-
-- Cloud infrastructure & multi-cloud (AWS, Azure)  
-- Linux & System Programming  
-- Distributed systems & system design  
-- Data platforms (Spark, Iceberg)  
-- DevOps & automation with Terraform, Docker, Kubernetes  
-- Future focus: Scalable AI/ML infrastructure  
-
----
-
-## Tech Stack  
-
-### Languages  
-- Go, Python, Java, TypeScript, C, SQL, Shell  
-
-### Systems & Infrastructure  
-Linux, AWS (EC2, S3, IAM, Lambda, App Runner), Azure (Blob Storage, Container Apps, Functions),  
-Docker, Kubernetes, Terraform, GitHub Actions (OIDC CI/CD) 
-
-### Data & Analytics  
-- Apache Spark, Apache Iceberg  
-- PostgreSQL, Redis  
-- Data Pipelines & Orchestration  
-
----
-
 ## Reach Me
 
 - 📧 [enesy@my.yorku.ca](mailto:enesy@my.yorku.ca)  
