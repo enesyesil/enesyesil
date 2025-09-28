@@ -9,7 +9,7 @@ Final-year CS student at York University, specializing in scalable infrastructur
 - **Fisor Analytics** — A multi-tenant AI analytics platform using Go, Python, Apache Spark, and Iceberg. Focused on automating insight generation from public + company data using LLM agents and scalable infra.  
   → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/Fisor-Analytics)
 
-- **Backenderer** — A DevOps automation tool that deploys backend apps to AWS using Docker, Nginx, and Terraform pipelines.  
+- **Backenderer** — A lightweight toolkit that lets students and hobbyists deploy backend apps to the cloud with minimal setup.  
   → [GitHub](https://github.com/enesyesil/backenderer)
 
 ---
