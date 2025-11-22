@@ -1,6 +1,6 @@
 # Hello, Friend 👋
 
-Final-year CS student at York University, specializing in scalable infrastructure & data, and distributed systems.
+Final-year CS student at York University, specializing in infra & data, and distributed systems.
 
 ---
 
@@ -16,7 +16,7 @@ Final-year CS student at York University, specializing in scalable infrastructur
 
 ## Reach Me
 
-- 📧 [enesy@my.yorku.ca](mailto:enesy@my.yorku.ca)  
+- 📧 [Mail](mailto:enesy@my.yorku.ca)  
 - 🌐 [Portfolio](https://enesyesil.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/enes-yesil-723080184/)
 
