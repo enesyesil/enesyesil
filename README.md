@@ -6,11 +6,10 @@ Final-year CS student at York University, specializing in infra & data, and dist
 
 ##  What I'm Working On
 
-- **Fisor Analytics** — A multi-tenant AI analytics platform using Go, Python, Apache Spark, and Iceberg. Focused on automating insight generation from public + company data using LLM agents and scalable infra.  
-  → [Website](https://fisoranalytics.org) · [GitHub](https://github.com/Fisor-Analytics)
 
-- **Backenderer** — A lightweight toolkit that lets students and hobbyists deploy backend apps to the cloud with minimal setup.  
-  → [GitHub](https://github.com/enesyesil/backenderer)
+- Backend + systems projects focused on distributed systems and data infrastructure
+- Improving reliability/observability (testing, CI/CD, metrics) across my projects
+- Building small tools and prototypes to learn faster and ship cleaner systems
 
 ---
 
