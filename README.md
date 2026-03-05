@@ -89,9 +89,10 @@ This keeps complexity contained and makes refactors survivable.
 
 ## Stats (lightweight)
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=enesyesil&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
- <img height="160" alt="Top languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyesil&layout=compact&langs_count=8&cache_seconds=86400" />
+  <img height="160" alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=enesyesil&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&v=1" />
+  <img height="160" alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyesil&layout=compact&langs_count=8&cache_seconds=86400&v=1" />
 </p>
 
 <p align="center">
