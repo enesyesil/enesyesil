@@ -1,7 +1,5 @@
 # Hello, Friend 👋
 
-Final-year CS student at York University, specializing in infra & data, and distributed systems.
-
 <!-- Profile README for: enesyesil -->
 
 <p align="center">
