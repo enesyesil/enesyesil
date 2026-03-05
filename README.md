@@ -115,5 +115,7 @@ This keeps complexity contained and makes refactors survivable.
     <img alt="Email" src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail" />
   </a>
 </p>
+
 ---
+
 *Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
