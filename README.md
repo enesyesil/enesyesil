@@ -78,7 +78,7 @@ This keeps complexity contained and makes refactors survivable.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-000?style=flat&logo=microsoftazure" />
   <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner_VPS-000?style=flat&logo=hetzner" />
-  <img alt="Dokploy" height="18" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dokploy.svg" />
+  <img alt="Dokploy" src="https://img.shields.io/badge/Dokploy-000?style=flat&logo=docker" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform" />
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000?style=flat&logo=prometheus" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000?style=flat&logo=grafana" />
