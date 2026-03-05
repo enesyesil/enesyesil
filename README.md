@@ -104,16 +104,16 @@ This keeps complexity contained and makes refactors survivable.
 ## Contact
 
 <p align="center">
-  <a href="https://enesyesil.me">
-    <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge" />
+  <a href="https://enesyesil.me" style="text-decoration:none;">
+    <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/me-enesyesil/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/me-enesyesil/" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:me.enesyesil@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:me.enesyesil@gmail.com" style="text-decoration:none;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
