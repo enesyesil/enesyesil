@@ -13,13 +13,25 @@ Final-year CS student at York University, specializing in infra & data, and dist
   Distributed Systems · Cloud · Data Infrastructure · Agentic Workflows
 </p>
 
-<p align="center">
-  <a href="https://enesyesil.me">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
-  ·
-  <a href="https://github.com/enesyesil?tab=repositories">Repositories</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+
+[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
+
+</td>
+    <td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
+
+</td>
+    <td align="center">
+
+[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
+
+</td>
+  </tr>
+</table>
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=enesyesil&style=flat&color=0e7490" />
@@ -103,25 +115,8 @@ This keeps complexity contained and makes refactors survivable.
 
 ## Contact
 
-<table align="center">
-  <tr>
-    <td align="center">
 
-[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
 
-</td>
-    <td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
-
-</td>
-    <td align="center">
-
-[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
-
-</td>
-  </tr>
-</table>
 ---
 
 *Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
