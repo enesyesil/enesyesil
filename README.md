@@ -105,15 +105,21 @@ This keeps complexity contained and makes refactors survivable.
 
 <p align="center">
   <a href="https://enesyesil.me" style="text-decoration:none;">
-    <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <span style="text-decoration:none;">
+      <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge" />
+    </span>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/me-enesyesil/" style="text-decoration:none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <span style="text-decoration:none;">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin" />
+    </span>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:me.enesyesil@gmail.com" style="text-decoration:none;">
-    <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <span style="text-decoration:none;">
+      <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail" />
+    </span>
   </a>
 </p>
 
