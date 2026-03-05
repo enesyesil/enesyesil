@@ -102,9 +102,11 @@ This keeps complexity contained and makes refactors survivable.
 ---
 
 ## Contact
-- Website: https://enesyesil.me  
-- LinkedIn: https://www.linkedin.com/in/me-enesyesil/  
-- Email: me.enesyesil@gmail.com
+<p>
+  <a href="https://enesyesil.me"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=flat&logo=googlechrome" /></a>
+  <a href="https://www.linkedin.com/in/me-enesyesil/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" /></a>
+  <a href="mailto:me.enesyesil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail" /></a>
+</p>
   
 ---
 *Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
