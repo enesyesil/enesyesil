@@ -102,19 +102,34 @@ This keeps complexity contained and makes refactors survivable.
 ---
 
 ## Contact
-<p align="center">
-  <a href="https://enesyesil.me">
-    <img alt="Website" src="https://enesyesil.me/favicon.svg" height="22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/me-enesyesil/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:me.enesyesil@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://enesyesil.me">
+        <img src="https://enesyesil.me/favicon.svg" width="28" height="28" alt="Website" />
+      </a>
+      <br />
+      <a href="https://enesyesil.me"><kbd>&nbsp;Website&nbsp;</kbd></a>
+    </td>
+
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/me-enesyesil/">
+        <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="28" height="28" alt="LinkedIn" />
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/me-enesyesil/"><kbd>&nbsp;LinkedIn&nbsp;</kbd></a>
+    </td>
+
+    <td align="center" width="140">
+      <a href="mailto:me.enesyesil@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/ffffff" width="28" height="28" alt="Email" />
+      </a>
+      <br />
+      <a href="mailto:me.enesyesil@gmail.com"><kbd>&nbsp;Email&nbsp;</kbd></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
