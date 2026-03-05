@@ -113,10 +113,5 @@ This keeps complexity contained and makes refactors survivable.
 
 ---
 
-## Contact
-
-
-
----
 
 *Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
