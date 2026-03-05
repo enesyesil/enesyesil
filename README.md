@@ -5,8 +5,7 @@ Final-year CS student at York University, specializing in infra & data, and dist
 <!-- Profile README for: enesyesil -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,100:0e7490&height=140&section=header&text=enesyesil&fontColor=ffffff&fontSize=48" />
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:14532d&height=140&section=header&text=enesyesil&fontColor=ffffff&fontSize=48" />
 
 <h2 align="center">Software Engineer — Backend / Platform</h2>
 
@@ -67,19 +66,19 @@ This keeps complexity contained and makes refactors survivable.
 ---
 
 ## Tech Stack I actually use
-**Languages:** Go · TypeScript · Python · SQL  
-**Backend:** Postgres · Redis · REST/gRPC · Docker  
-**Cloud:** AWS · Azure · Terraform · Vercel · Dokploy + Hetzner VPS  
-**Data:** Spark · Iceberg · Parquet  
-**Ops:** Prometheus · Grafana
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-000?style=flat&logo=go" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
   <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-000?style=flat&logo=postgresql" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-000?style=flat&logo=redis" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-000?style=flat&logo=microsoftazure" />
+  <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner_VPS-000?style=flat&logo=hetzner" />
+  <img alt="Dokploy" height="18" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dokploy.svg" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform" />
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000?style=flat&logo=prometheus" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000?style=flat&logo=grafana" />
@@ -90,7 +89,8 @@ This keeps complexity contained and makes refactors survivable.
 ## Stats (lightweight)
 <p align="center">
   <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=enesyesil&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyesil&layout=compact&langs_count=8" />
+ <img height="160" alt="Top languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyesil&layout=compact&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
