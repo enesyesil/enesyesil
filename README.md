@@ -103,26 +103,25 @@ This keeps complexity contained and makes refactors survivable.
 
 ## Contact
 
-<p align="center">
-  <a href="https://enesyesil.me" style="text-decoration:none;">
-    <span style="text-decoration:none;">
-      <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge" />
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/me-enesyesil/" style="text-decoration:none;">
-    <span style="text-decoration:none;">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin" />
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:me.enesyesil@gmail.com" style="text-decoration:none;">
-    <span style="text-decoration:none;">
-      <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail" />
-    </span>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
 
+[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
+
+</td>
+    <td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
+
+</td>
+    <td align="center">
+
+[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
+
+</td>
+  </tr>
+</table>
 ---
 
 *Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
