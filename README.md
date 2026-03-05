@@ -103,21 +103,19 @@ This keeps complexity contained and makes refactors survivable.
 
 ## Contact
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://enesyesil.me">
-        <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge" />
-      </a>
-      <a href="https://www.linkedin.com/in/me-enesyesil/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin" />
-      </a>
-      <a href="mailto:me.enesyesil@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://enesyesil.me">
+    <img alt="Website" src="https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/me-enesyesil/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:me.enesyesil@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
