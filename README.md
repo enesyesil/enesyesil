@@ -47,19 +47,19 @@
 ## Building now
 These are the projects I’m actively building and iterating on.
 
-- **Design Cockpit** — WIP workspace for making product/design decisions and turning them into clean plans + implementation contracts.  
+- **Design Cockpit** — WIP workspace for making product/design decisions and turning them into clean plans.md + implementation contracts.md
   [Repo → design-cockpit](https://github.com/enesyesil/design-cockpit)
 
-- **Atlas Fabric** — WIP “tooling fabric” for reusable workflows/components that power my bigger systems (automation + structured execution).  
+- **Atlas Fabric** — It explores whether we can systematically build a usable historical boundary dataset when none publicly exists 
   [Repo → atlas-fabric](https://github.com/enesyesil/atlas-fabric)
 
-- **IssueSight** — GitHub issue context-bridge (LLM-assisted) to help engineers understand issues faster and reduce back-and-forth.  
+- **IssueSight** — GitHub issue context-bridge (LLM-assisted) to help juniors understand issues faster and reduce back-and-forth  
   [Repo → issuesight](https://github.com/enesyesil/issuesight)
 
-- **Job Weaver** — Go-based job discovery + digest system focused on startup/small-company opportunities.  
+- **Job Weaver** — Go-based job discovery + digest system focused on startup/small-company opportunities  
   [Repo → job-weaver](https://github.com/enesyesil/job-weaver)
 
-- **Backenderer** — lightweight deployment platform (infra-as-product) for shipping backends fast and reliably.  
+- **Backenderer** — lightweight deployment platform (infra-as-product) for shipping backends fast and reliably  
   [Repo → backenderer](https://github.com/enesyesil/backenderer)
 ---
 
