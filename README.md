@@ -100,7 +100,10 @@ This keeps complexity contained and makes refactors survivable.
 ## Stats (lightweight)
 
 <p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=enesyesil&hide_border=true" />
+  <img
+    alt="Streak"
+    src="https://streak-stats.demolab.com?user=enesyesil&hide_border=true&v=2"
+  />
 </p>
 
 ---
