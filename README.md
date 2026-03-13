@@ -39,8 +39,8 @@
 
 ## Now
 - Building reliable backend systems with **clear contracts**, **observable execution**, and **boring-by-design** infrastructure  
-- Interested in **platform engineering**, **cloud architecture**, and **agentic automation** that stays deterministic where it matters  
-- Bias: ship small → validate → harden
+- Interested in **Platform engineering**, **Software & Cloud architecture**, and **Agentic automation** that stays deterministic where it matters  
+- Ship small → Validate → Harden
 
 ---
 
