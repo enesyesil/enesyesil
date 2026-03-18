@@ -8,19 +8,25 @@
 </p>
 
 <hr/>
-<p align="center">
-  <a href="https://enesyesil.me">
-    <img src="https://img.shields.io/badge/Website-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/me-enesyesil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:me.enesyesil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+
+[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
+
+</td>
+    <td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
+
+</td>
+    <td align="center">
+
+[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
+
+</td>
+  </tr>
+</table>
 
 <hr/>
 
