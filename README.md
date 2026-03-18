@@ -112,14 +112,6 @@
   <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h3>Backend / Frameworks</h3>
-<p>
-  <img src="https://img.shields.io/badge/Django-0b1220?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST_APIs-0b1220?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/MVC-0b1220?style=for-the-badge" alt="MVC" />
-  <img src="https://img.shields.io/badge/Microservices-0b1220?style=for-the-badge" alt="Microservices" />
-</p>
-
 <h3>Infrastructure &amp; DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -156,11 +148,15 @@
 <h3>Concepts</h3>
 <p>
   <img src="https://img.shields.io/badge/System_Design-0b1220?style=for-the-badge" alt="System Design" />
-  <img src="https://img.shields.io/badge/CI/CD-0b1220?style=for-the-badge" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/IaC-0b1220?style=for-the-badge" alt="IaC" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-0b1220?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-0b1220?style=for-the-badge" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-0b1220?style=for-the-badge" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Observability-0b1220?style=for-the-badge" alt="Observability" />
+  <img src="https://img.shields.io/badge/Orchestration-0b1220?style=for-the-badge" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-0b1220?style=for-the-badge" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/Virtual_Machines-0b1220?style=for-the-badge" alt="Virtual Machines" />
   <img src="https://img.shields.io/badge/LLMs-0b1220?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/ML-0b1220?style=for-the-badge" alt="ML" />
-  <img src="https://img.shields.io/badge/Data_Lakes-0b1220?style=for-the-badge" alt="Data Lakes" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=for-the-badge" alt="Machine Learning" />
 </p>
 <hr/>
 <hr/>
