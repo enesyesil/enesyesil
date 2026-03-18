@@ -102,42 +102,65 @@
 
 <h3>Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Go-0b1220?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0b1220?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-0b1220?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0b1220?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-0b1220?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0b1220?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<h3>Backend / Infra</h3>
+<h3>Backend / Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/Postgres-0b1220?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Redis-0b1220?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-0b1220?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-0b1220?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Django-0b1220?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0b1220?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-0b1220?style=flat-square&logo=framework&logoColor=white" />
 </p>
 
-<h3>Cloud / Platform</h3>
+<h3>Infrastructure & DevOps</h3>
 <p>
-  <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Hetzner-0b1220?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/Dokploy-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
-  <img src="https://img.shields.io/badge/Prometheus-0b1220?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-0b1220?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  
+  <img src="https://img.shields.io/badge/Git-0b1220?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0b1220?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-0b1220?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0b1220?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/IaC-0b1220?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+<h3>Cloud & Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <h3>Data / Analytics</h3>
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
-  <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
-  <img src="https://img.shields.io/badge/Parquet-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Parquet" />
+  <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Lakes-0b1220?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+<h3>Concepts</h3>
+<p>
+  <img src="https://img.shields.io/badge/System_Design-0b1220?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-0b1220?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-0b1220?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile-0b1220?style=flat-square" />
 </p>
 
 <hr/>
+
 
 <hr/>
 
@@ -147,12 +170,13 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=enesyesil&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"
     alt="enesyesil GitHub stats"
-    height="165"
   />
+</p>
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=true"
     alt="enesyesil GitHub streak"
-    height="165"
   />
 </p>
 
@@ -164,7 +188,7 @@
   />
 </p>
 
-
+<hr/>
 
 <p align="center">
   <sub>
