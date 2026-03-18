@@ -27,7 +27,7 @@
 
 <hr/>
 
-<h2>● BUILDING NOW</h2>
+<h2> BUILDING NOW</h2>
 
 <table>
   <tr>
@@ -180,13 +180,6 @@
   />
 </p>
 
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=false"
-    alt="enesyesil streak stats"
-  />
-</p>
 
 <hr/>
 
