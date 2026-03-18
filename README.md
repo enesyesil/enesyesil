@@ -95,14 +95,6 @@
 
 <hr/>
 
-<h2>◇ BUILD ORDER</h2>
-<pre>
-01  Interfaces first
-02  Execution engine
-03  State + data
-04  Observability
-05  Hardening
-</pre>
 
 <hr/>
 
@@ -136,10 +128,21 @@
   <img src="https://img.shields.io/badge/Grafana-0b1220?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-<h3>Data / Analytics</h3>
-![enesyesil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesyesil&theme=highcontrast&hide_border=false)
+
 
 <hr/>
+
+<h3>Data / Analytics</h3>
+<p>
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=false"
+    alt="enesyesil streak stats"
+  />
+</p>
 
 
 
