@@ -7,7 +7,10 @@
   and boring-by-design infrastructure.
    
 </p>
+
+<p align="center">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=enesyesil&style=flat&color=0e7490" />
+</p>
 
 <hr/>
 <table align="center">
