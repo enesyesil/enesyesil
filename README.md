@@ -7,6 +7,7 @@
   and boring-by-design infrastructure.
 </p>
 
+<hr/>
 <div align="center" style="border:1px solid #30363d; border-radius:10px; padding:12px; display:inline-block;">
   <a href="https://enesyesil.me">Website</a>
   &nbsp;·&nbsp;
@@ -14,10 +15,6 @@
   &nbsp;·&nbsp;
   <a href="mailto:me.enesyesil@gmail.com">Email</a>
 </div>
-
-<p align="center">
-  <code>interfaces → execution → state → observability → hardening</code>
-</p>
 
 <hr/>
 
