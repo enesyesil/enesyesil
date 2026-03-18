@@ -141,14 +141,7 @@
 
 <hr/>
 
-<h2>◇ OPERATING PRINCIPLES</h2>
-<pre>
-→ Ship small
-→ Learn fast
-→ Keep systems debuggable
-→ Prefer clear contracts over cleverness
-→ Build → Test → Ship → Improve
-</pre>
+
 
 <p align="center">
   <sub>
