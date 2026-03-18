@@ -126,16 +126,36 @@
   <img src="https://img.shields.io/badge/Dokploy-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
   <img src="https://img.shields.io/badge/Prometheus-0b1220?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-0b1220?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  
 </p>
-
-
-
-<hr/>
 
 <h3>Data / Analytics</h3>
 <p>
+  <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
+  <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
+  <img src="https://img.shields.io/badge/Parquet-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Parquet" />
 </p>
+
+<hr/>
+
+<hr/>
+
+<h2>◇ STATS</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=enesyesil&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"
+    alt="enesyesil GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=true"
+    alt="enesyesil GitHub streak"
+    height="165"
+  />
+</p>
+
 
 <p align="center">
   <img
