@@ -8,11 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://enesyesil.me">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
-  ·
-  <a href="mailto:me.enesyesil@gmail.com">Email</a>
+  <span style="border:1px solid #30363d; border-radius:10px; padding:10px 16px; display:inline-block;">
+    <a href="https://enesyesil.me">Website</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:me.enesyesil@gmail.com">Email</a>
+  </span>
 </p>
 
 <p align="center">
