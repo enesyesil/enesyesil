@@ -75,14 +75,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Job Weaver</h3>
-      <p>
-        Go-based job discovery and digest system focused on startup and
-        small-company opportunities.
-      </p>
-      <p>
-        <a href="https://github.com/enesyesil/job-weaver">↳ view repo</a>
-      </p>
+  <h3>AgentBoxKit</h3>
+<p>
+  Policy-aware secure runtime kit for building controlled and reliable agent workflows.
+</p>
+<p>
+  <a href="YOUR_REPO_LINK_HERE">↳ view repo</a>
+</p>
     </td>
   </tr>
   <tr>
