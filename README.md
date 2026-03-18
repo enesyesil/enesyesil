@@ -52,7 +52,6 @@
         <a href="https://github.com/enesyesil/design-cockpit">↳ view repo</a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>Atlas Fabric</h3>
       <p>
@@ -76,7 +75,6 @@
         <a href="https://github.com/enesyesil/issuesight">↳ view repo</a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>AgentBoxKit</h3>
       <p>
