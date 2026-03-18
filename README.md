@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  Distributed Systems · Cloud · Data Infrastructure · Agentic Workflows
-</p>
-
-<p align="center">
   <a href="https://enesyesil.me">Website</a>
   ·
   <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
@@ -24,9 +20,6 @@
 </p>
 
 <hr/>
-
-<h2>◇ SYSTEM INFO</h2>
-<p><code>ACTIVE · BACKEND / PLATFORM · DISTRIBUTED SYSTEMS · CLOUD · DATA INFRA</code></p>
 
 
 <hr/>
@@ -144,9 +137,7 @@
 </p>
 
 <h3>Data / Analytics</h3>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
-</p>
+![enesyesil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesyesil&theme=highcontrast&hide_border=false)
 
 <hr/>
 
