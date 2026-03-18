@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-<hr/>
+
 
 
 <hr/>
@@ -107,7 +107,7 @@
   </tr>
 </table>
 
-<hr/>
+
 
 
 <hr/>
@@ -172,7 +172,7 @@
   <img src="https://img.shields.io/badge/LLMs-0b1220?style=for-the-badge" alt="LLMs" />
   <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=for-the-badge" alt="Machine Learning" />
 </p>
-<hr/>
+
 <hr/>
 
 <h2> STATS</h2>
