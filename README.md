@@ -43,10 +43,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/design-cockpit">→ Design Cockpit</a></h3>
+      <h3><a href="https://github.com/enesyesil/InfraUp">→ InfraUp</a></h3>
       <p>
-        WIP workspace for turning product and design decisions into structured
-        <code>plans.md</code> and <code>implementation-contracts.md</code>.
+        Discovery website for self-hosted open source alternatives to SaaS tools.
       </p>
     </td>
     <td width="50%" valign="top">
