@@ -1,118 +1,190 @@
-# Hello, Friend 👋
-
-<!-- Profile README for: enesyesil -->
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:14532d&height=140&section=header&text=enesyesil&fontColor=ffffff&fontSize=48" />
-
-<h2 align="center">Software Engineer — Backend / Platform</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=04671F&background=74747400&center=true&vCenter=true&width=435&height=100&lines=Enes+Yesil+;Software+Engineer+" alt="Typing SVG" /></a>
+</p>
 <p align="center">
-  Distributed Systems · Cloud · Data Infrastructure · Agentic Workflows
+  Building reliable backend systems with clear contracts, observable execution,
+  and boring-by-design infrastructure.
 </p>
 
-<table align="center">
+<hr/>
+<p align="center">
+  <a href="https://enesyesil.me">
+    <img src="https://img.shields.io/badge/Website-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/me-enesyesil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:me.enesyesil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<hr/>
+
+
+<hr/>
+
+<h2> BUILDING NOW</h2>
+
+<table>
   <tr>
-    <td align="center">
-
-[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
-
-</td>
-    <td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
-
-</td>
-    <td align="center">
-
-[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
-
-</td>
+    <td width="50%" valign="top">
+      <h3>Design Cockpit</h3>
+      <p>
+        WIP workspace for turning product and design decisions into clean
+        <code>plans.md</code> and <code>implementation-contracts.md</code>.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/design-cockpit">↳ view repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Atlas Fabric</h3>
+      <p>
+        Research-driven system exploring whether a usable historical boundary
+        dataset can be built when no clean public dataset exists.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/atlas-fabric">↳ view repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>IssueSight</h3>
+      <p>
+        GitHub issue context-bridge with LLM assistance to help junior engineers
+        understand issues faster and reduce back-and-forth.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/issuesight">↳ view repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Job Weaver</h3>
+      <p>
+        Go-based job discovery and digest system focused on startup and
+        small-company opportunities.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/job-weaver">↳ view repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backenderer</h3>
+      <p>
+        Lightweight deployment platform built around infra-as-product for
+        shipping backends fast and reliably.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/backenderer">↳ view repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Current Direction</h3>
+      <p>
+        Focused on platform engineering, software architecture, distributed
+        systems, cloud infrastructure, and agentic automation with focus on infra where
+        reliability matters.
+      </p>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=enesyesil&style=flat&color=0e7490" />
-</p>
-
----
-
-## Now
-- Building reliable backend systems with **clear contracts**, **observable execution**, and **boring-by-design** infrastructure  
-- Interested in **Platform engineering**, **Software & Cloud architecture**, and **Agentic automation** that stays deterministic where it matters  
+<hr/>
 
 
----
+<hr/>
 
-## Building now
-These are the projects I’m actively building and iterating on.
+<h2> STACK</h2>
 
-- **Design Cockpit** — WIP workspace for making product/design decisions and turning them into clean plans.md + implementation contracts.md
-  [Repo → design-cockpit](https://github.com/enesyesil/design-cockpit)
-
-- **Atlas Fabric** — It explores whether we can systematically build a usable historical boundary dataset when none publicly exists 
-  [Repo → atlas-fabric](https://github.com/enesyesil/atlas-fabric)
-
-- **IssueSight** — GitHub issue context-bridge (LLM-assisted) to help juniors understand issues faster and reduce back-and-forth  
-  [Repo → issuesight](https://github.com/enesyesil/issuesight)
-
-- **Job Weaver** — Go-based job discovery + digest system focused on startup/small-company opportunities  
-  [Repo → job-weaver](https://github.com/enesyesil/job-weaver)
-
-- **Backenderer** — lightweight deployment platform (infra-as-product) for shipping backends fast and reliably  
-  [Repo → backenderer](https://github.com/enesyesil/backenderer)
----
-
-## How I build (so projects don’t rot)
-**My default build order:**
-1) Interfaces first (APIs, schemas, minimal UI surface)
-2) Execution engine (workers, queues, schedulers)
-3) State + data (Postgres, Redis, object storage, Iceberg)
-4) Observability (metrics, logs, traces)
-5) Hardening (tests, rate limits, failure modes, CI/CD)
-
-This keeps complexity contained and makes refactors survivable.
-
----
-
-## Tech Stack I actually use
-
+<h3>Languages</h3>
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-000?style=flat&logo=go" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-000?style=flat&logo=postgresql" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-000?style=flat&logo=redis" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-000?style=flat&logo=microsoftazure" />
-  <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner_VPS-000?style=flat&logo=hetzner" />
-  <img alt="Dokploy" height="18" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dokploy.svg" />
-  <img alt="Dokploy" src="https://img.shields.io/badge/Dokploy-000?style=flat" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000?style=flat&logo=prometheus" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000?style=flat&logo=grafana" />
+  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Shell-0b1220?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
----
+<h3>Infrastructure &amp; DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-0b1220?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Prometheus-0b1220?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
 
-## Stats (lightweight)
+<h3>Cloud &amp; Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-0b1220?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Hetzner-0b1220?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/Dokploy-0b1220?style=for-the-badge" alt="Dokploy" />
+  <img src="https://img.shields.io/badge/Coolify-0b1220?style=for-the-badge" alt="Coolify" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<h3>Data / Analytics</h3>
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=for-the-badge" alt="Apache Iceberg" />
+  <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
+</p>
+
+<h3>Concepts</h3>
+<p>
+  <img src="https://img.shields.io/badge/System_Design-0b1220?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-0b1220?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-0b1220?style=for-the-badge" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-0b1220?style=for-the-badge" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Observability-0b1220?style=for-the-badge" alt="Observability" />
+  <img src="https://img.shields.io/badge/Orchestration-0b1220?style=for-the-badge" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-0b1220?style=for-the-badge" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/Virtual_Machines-0b1220?style=for-the-badge" alt="Virtual Machines" />
+  <img src="https://img.shields.io/badge/LLMs-0b1220?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=for-the-badge" alt="Machine Learning" />
+</p>
+<hr/>
+<hr/>
+
+<h2>◇ STATS</h2>
 
 <p align="center">
   <img
-    alt="Streak"
-    src="https://streak-stats.demolab.com?user=enesyesil&hide_border=true&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=enesyesil&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"
+    alt="enesyesil GitHub stats"
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=true"
+    alt="enesyesil GitHub streak"
+  />
+</p>
 
-## Operating principles
-- I ship small, learn fast, and iterate.
-- Build → test → ship → improve.
 
----
+<hr/>
 
-
-*Expect prototypes, experiments, and code that probably shouldn’t work (but sometimes does).*
+<p align="center">
+  <sub>
+    Expect prototypes, experiments, and code that probably should not work — but sometimes does.
+  </sub>
+</p>
