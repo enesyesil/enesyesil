@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h2>◇ BUILDING NOW</h2>
+<h2> BUILDING NOW</h2>
 
 <table>
   <tr>
