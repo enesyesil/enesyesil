@@ -102,129 +102,85 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Languages</h3>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Go-0b1220?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Java-0b1220?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Shell-0b1220?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-        <img src="https://img.shields.io/badge/SQL-0b1220?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/HTML-0b1220?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-0b1220?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Shell-0b1220?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+        <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       </p>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Backend / Frameworks</h3>
       <p>
-        <img src="https://img.shields.io/badge/Django-0b1220?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/REST_APIs-0b1220?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-        <img src="https://img.shields.io/badge/MVC-0b1220?style=flat-square" alt="MVC" />
-        <img src="https://img.shields.io/badge/Microservices-0b1220?style=flat-square" alt="Microservices" />
+        <img src="https://img.shields.io/badge/Django-0b1220?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/REST_APIs-0b1220?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/MVC-0b1220?style=for-the-badge" alt="MVC" />
+        <img src="https://img.shields.io/badge/Microservices-0b1220?style=for-the-badge" alt="Microservices" />
       </p>
     </td>
   </tr>
-</table>
 
-<br/>
-
-<table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Infrastructure &amp; DevOps</h3>
       <p>
-        <img src="https://img.shields.io/badge/Git-0b1220?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Linux-0b1220?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-        <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Terraform-0b1220?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-        <img src="https://img.shields.io/badge/Prometheus-0b1220?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-        <img src="https://img.shields.io/badge/CI/CD-0b1220?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-        <img src="https://img.shields.io/badge/IaC-0b1220?style=flat-square&logo=terraform&logoColor=white" alt="IaC" />
-        <img src="https://img.shields.io/badge/Agile-0b1220?style=flat-square" alt="Agile" />
+        <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Terraform-0b1220?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Prometheus-0b1220?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
       </p>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Cloud &amp; Platforms</h3>
       <p>
-        <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Azure-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-        <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-        <img src="https://img.shields.io/badge/Hetzner-0b1220?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
-        <img src="https://img.shields.io/badge/Dokploy-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
-        <img src="https://img.shields.io/badge/Coolify-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Coolify" />
+        <img src="https://img.shields.io/badge/AWS-0b1220?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Azure-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+        <img src="https://img.shields.io/badge/Hetzner-0b1220?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+        <img src="https://img.shields.io/badge/Dokploy-0b1220?style=for-the-badge&logo=docker&logoColor=white" alt="Dokploy" />
+        <img src="https://img.shields.io/badge/Coolify-0b1220?style=for-the-badge&logo=docker&logoColor=white" alt="Coolify" />
       </p>
     </td>
   </tr>
-</table>
 
-<br/>
-
-<table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Databases</h3>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-    </td>
-  </tr>
-</table>
 
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
       <h3>Data / Analytics</h3>
       <p>
-        <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-        <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
-        <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
-        <img src="https://img.shields.io/badge/Data_Lakes-0b1220?style=flat-square" alt="Data Lakes" />
-        <img src="https://img.shields.io/badge/ML-0b1220?style=flat-square" alt="ML" />
-        <img src="https://img.shields.io/badge/LLMs-0b1220?style=flat-square" alt="LLMs" />
+        <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+        <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" />
+        <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
       </p>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Concepts</h3>
       <p>
-        <img src="https://img.shields.io/badge/System_Design-0b1220?style=flat-square" alt="System Design" />
-        <img src="https://img.shields.io/badge/Microservices-0b1220?style=flat-square" alt="Microservices" />
-        <img src="https://img.shields.io/badge/LLMs-0b1220?style=flat-square" alt="LLMs" />
-        <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=flat-square" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Data_Lakes-0b1220?style=flat-square" alt="Data Lakes" />
+        <img src="https://img.shields.io/badge/System_Design-0b1220?style=for-the-badge" alt="System Design" />
+        <img src="https://img.shields.io/badge/Microservices-0b1220?style=for-the-badge" alt="Microservices" />
+        <img src="https://img.shields.io/badge/LLMs-0b1220?style=for-the-badge" alt="LLMs" />
+        <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=for-the-badge" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Data_Lakes-0b1220?style=for-the-badge" alt="Data Lakes" />
+        <img src="https://img.shields.io/badge/CI/CD-0b1220?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+        <img src="https://img.shields.io/badge/IaC-0b1220?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC" />
       </p>
     </td>
   </tr>
 </table>
 <hr/>
-
 
 <hr/>
 
