@@ -43,63 +43,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Design Cockpit</h3>
+      <h3><a href="https://github.com/enesyesil/design-cockpit">→ Design Cockpit</a></h3>
       <p>
         WIP workspace for turning product and design decisions into structured
         <code>plans.md</code> and <code>implementation-contracts.md</code>.
       </p>
-      <p>
-        <a href="https://github.com/enesyesil/design-cockpit">↳ view repo</a>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Atlas Fabric</h3>
+      <h3><a href="https://github.com/enesyesil/atlas-fabric">→ Atlas Fabric</a></h3>
       <p>
         Research-driven system exploring how to construct usable historical
         boundary datasets when clean public data does not exist.
       </p>
-      <p>
-        <a href="https://github.com/enesyesil/atlas-fabric">↳ view repo</a>
-      </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>IssueSight</h3>
+      <h3><a href="https://github.com/enesyesil/issuesight">→ IssueSight</a></h3>
       <p>
         GitHub issue context-bridge with LLM assistance to help engineers
         understand issues faster and reduce back-and-forth.
       </p>
-      <p>
-        <a href="https://github.com/enesyesil/issuesight">↳ view repo</a>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>AgentBoxKit</h3>
+      <h3><a href="https://github.com/enesyesil/agentboxkit">→ AgentBoxKit</a></h3>
       <p>
         Secure, policy-aware runtime kit for controlled agent execution and
         workflow isolation.
-      </p>
-      <p>
-        <a href="https://github.com/enesyesil/agentboxkit">↳ view repo</a>
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>Backenderer</h3>
+      <h3><a href="https://github.com/enesyesil/backenderer">→ Backenderer</a></h3>
       <p>
         Lightweight deployment platform built around infra-as-product for
         shipping backends fast and reliably.
       </p>
-      <p>
-        <a href="https://github.com/enesyesil/backenderer">↳ view repo</a>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Current Direction</h3>
+      <h3>→ Current Direction</h3>
       <p>
         Focused on platform engineering, distributed systems, cloud
         architecture, and agentic automation — with emphasis on reliability
