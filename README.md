@@ -42,13 +42,13 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/InfraUp">→ InfraUp</a></h3>
       <p>
         Discovery website for self-hosted open source alternatives to SaaS tools.
       </p>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/atlas-fabric">→ Atlas Fabric</a></h3>
       <p>
         Research-driven system exploring how to construct usable historical
@@ -58,14 +58,14 @@
   </tr>
 
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/issuesight">→ IssueSight</a></h3>
       <p>
         GitHub issue context-bridge with LLM assistance to help engineers
         understand issues faster and reduce back-and-forth.
       </p>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/agentboxkit">→ AgentBoxKit</a></h3>
       <p>
         Secure, policy-aware runtime kit for controlled agent execution and
@@ -75,14 +75,14 @@
   </tr>
 
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/backenderer">→ Backenderer</a></h3>
       <p>
         Lightweight deployment platform built around infra-as-product for
         shipping backends fast and reliably.
       </p>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>→ Current Direction</h3>
       <p>
         Focused on platform engineering, distributed systems, cloud
