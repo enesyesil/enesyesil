@@ -7,15 +7,13 @@
   and boring-by-design infrastructure.
 </p>
 
-<p align="center">
-  <span style="border:1px solid #30363d; border-radius:10px; padding:10px 16px; display:inline-block;">
-    <a href="https://enesyesil.me">Website</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:me.enesyesil@gmail.com">Email</a>
-  </span>
-</p>
+<div align="center" style="border:1px solid #30363d; border-radius:10px; padding:12px; display:inline-block;">
+  <a href="https://enesyesil.me">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/me-enesyesil/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:me.enesyesil@gmail.com">Email</a>
+</div>
 
 <p align="center">
   <code>interfaces → execution → state → observability → hardening</code>
