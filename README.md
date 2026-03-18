@@ -86,7 +86,7 @@
       <h3>Current Direction</h3>
       <p>
         Focused on platform engineering, software architecture, distributed
-        systems, cloud infrastructure, and deterministic automation where
+        systems, cloud infrastructure, and agentic automation with focus on infra where
         reliability matters.
       </p>
     </td>
