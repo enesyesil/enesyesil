@@ -80,7 +80,7 @@
   Policy-aware secure runtime kit for building controlled and reliable agent workflows.
 </p>
 <p>
-  <a href="(https://github.com/enesyesil/agentboxkit)">↳ view repo</a>
+  <a href="https://github.com/enesyesil/agentboxkit">↳ view repo</a>
 </p>
     </td>
   </tr>
