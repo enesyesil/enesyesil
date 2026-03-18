@@ -1,13 +1,5 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:052e16&height=120&section=header&text=Enes%20Yesil&fontColor=e5e7eb&fontSize=34&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Backend%20/%20Platform&descAlignY=72&descSize=14"
-    alt="Enes Yesil Header"
-  />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=04671F&center=true&vCenter=true&multiline=true&width=435&lines=Enes+Yesil+;Software+Engineer+" alt="Typing SVG" /></a>
 
-<p align="center"><sub>SYS.INIT</sub></p>
-
-<h1 align="center">Enes Yesil</h1>
 
 <p align="center">
   Building reliable backend systems with clear contracts, observable execution,
@@ -33,15 +25,8 @@
 <hr/>
 
 <h2>◇ SYSTEM INFO</h2>
+<p><code>ACTIVE · BACKEND / PLATFORM · DISTRIBUTED SYSTEMS · CLOUD · DATA INFRA</code></p>
 
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│  STATUS   │ ACTIVE                                           │
-│  ROLE     │ SOFTWARE ENGINEER · BACKEND / PLATFORM           │
-│  FOCUS    │ DISTRIBUTED SYSTEMS · CLOUD · DATA INFRA         │
-│  STACK    │ GO · TYPESCRIPT · PYTHON · POSTGRES · REDIS      │
-└──────────────────────────────────────────────────────────────┘
-</pre>
 
 <hr/>
 
@@ -117,26 +102,12 @@
 <hr/>
 
 <h2>◇ BUILD ORDER</h2>
-
-<p>
-  How I build so projects do not rot.
-</p>
-
 <pre>
 01  Interfaces first
-    APIs, schemas, contracts, minimal UI surface
-
 02  Execution engine
-    Workers, queues, schedulers, orchestration paths
-
 03  State + data
-    Postgres, Redis, object storage, analytical layers
-
 04  Observability
-    Metrics, logs, traces
-
 05  Hardening
-    Tests, rate limits, failure modes, CI/CD
 </pre>
 
 <hr/>
@@ -179,7 +150,6 @@
 <hr/>
 
 <h2>◇ OPERATING PRINCIPLES</h2>
-
 <pre>
 → Ship small
 → Learn fast
