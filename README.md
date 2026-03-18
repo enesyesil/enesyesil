@@ -38,52 +38,57 @@
 
 <hr/>
 
-<h2> BUILDING NOW</h2>
+<h2>◇ BUILDING NOW</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Design Cockpit</h3>
       <p>
-        WIP workspace for turning product and design decisions into clean
+        WIP workspace for turning product and design decisions into structured
         <code>plans.md</code> and <code>implementation-contracts.md</code>.
       </p>
       <p>
         <a href="https://github.com/enesyesil/design-cockpit">↳ view repo</a>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>Atlas Fabric</h3>
       <p>
-        Research-driven system exploring whether a usable historical boundary
-        dataset can be built when no clean public dataset exists.
+        Research-driven system exploring how to construct usable historical
+        boundary datasets when clean public data does not exist.
       </p>
       <p>
         <a href="https://github.com/enesyesil/atlas-fabric">↳ view repo</a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>IssueSight</h3>
       <p>
-        GitHub issue context-bridge with LLM assistance to help junior engineers
+        GitHub issue context-bridge with LLM assistance to help engineers
         understand issues faster and reduce back-and-forth.
       </p>
       <p>
         <a href="https://github.com/enesyesil/issuesight">↳ view repo</a>
       </p>
     </td>
+
     <td width="50%" valign="top">
-  <h3>AgentBoxKit</h3>
-<p>
-  Policy-aware secure runtime kit for building controlled and reliable agent workflows.
-</p>
-<p>
-  <a href="https://github.com/enesyesil/agentboxkit">↳ view repo</a>
-</p>
+      <h3>AgentBoxKit</h3>
+      <p>
+        Secure, policy-aware runtime kit for controlled agent execution and
+        workflow isolation.
+      </p>
+      <p>
+        <a href="https://github.com/enesyesil/agentboxkit">↳ view repo</a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>Backenderer</h3>
@@ -98,9 +103,9 @@
     <td width="50%" valign="top">
       <h3>Current Direction</h3>
       <p>
-        Focused on platform engineering, software architecture, distributed
-        systems, cloud infrastructure, and agentic automation with focus on infra where
-        reliability matters.
+        Focused on platform engineering, distributed systems, cloud
+        architecture, and agentic automation — with emphasis on reliability
+        and production-grade infrastructure.
       </p>
     </td>
   </tr>
