@@ -195,7 +195,7 @@
 <hr/>
 
 <p align="center">
-  
+  <sub>
     Expect prototypes, experiments, and code that probably should not work — but sometimes does.
-  
+  </sub>
 </p>
