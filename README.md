@@ -5,6 +5,8 @@
 <p align="center">
   Building reliable backend systems with clear contracts, observable execution,
   and boring-by-design infrastructure.
+
+   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=enesyesil&style=flat&color=0e7490" />
 </p>
 
 <hr/>
@@ -170,7 +172,7 @@
 <hr/>
 <hr/>
 
-<h2>◇ STATS</h2>
+<h2> STATS</h2>
 
 <p align="center">
   <img
@@ -190,7 +192,7 @@
 <hr/>
 
 <p align="center">
-  <sub>
+  
     Expect prototypes, experiments, and code that probably should not work — but sometimes does.
-  </sub>
+  
 </p>
