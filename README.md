@@ -130,15 +130,22 @@
   <img src="https://img.shields.io/badge/IaC-0b1220?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
-<h3>Cloud & Platforms</h3>
-<p>
- <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-0b1220?style=flat-square&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dokploy-0b1220?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-0b1220?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<h3>Cloud &amp; Platforms</h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Azure-0b1220?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+        <img src="https://img.shields.io/badge/Hetzner-0b1220?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
+        <img src="https://img.shields.io/badge/Dokploy-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
+        <img src="https://img.shields.io/badge/Coolify-0b1220?style=flat-square&logo=docker&logoColor=white" alt="Coolify" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3>Databases</h3>
 <p>
