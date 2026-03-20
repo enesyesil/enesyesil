@@ -68,7 +68,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/agentboxkit">→ AgentBoxKit</a></h3>
       <p>
-        Secure, policy-aware runtime kit for controlled agent execution and
+        Secure, policy-aware runtime sandbox kit for controlled agent execution and
         workflow isolation.
       </p>
     </td>
@@ -112,7 +112,7 @@
   <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h3>Infrastructure &amp; DevOps</h3>
+<h3>Infrastructure</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
