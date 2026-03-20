@@ -78,7 +78,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/enesyesil/backenderer">→ Backenderer</a></h3>
       <p>
-        Lightweight deployment platform built around infra-as-product for
+        Lightweight deployment kit built around infra-as-code for
         shipping backends fast and reliably.
       </p>
     </td>
