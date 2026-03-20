@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=04671F&background=74747400&center=true&vCenter=true&width=435&height=100&lines=Enes+Yesil+;Software+Engineer+" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  Building reliable backend systems with clear contracts, observable execution,
+  Building reliable systems with clear contracts, observable execution,
   and boring-by-design infrastructure.
    
 </p>
