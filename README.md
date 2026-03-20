@@ -85,8 +85,8 @@
     <td width="50%" valign="top">
       <h3>→ Current Direction</h3>
       <p>
-        Focused on platform engineering, distributed systems, cloud
-        architecture, and agentic automation — with emphasis on reliability
+        Focused on platform engineering, distributed systems, cloud & data
+        infra, and agentic automation — with emphasis on reliability
         and production-grade infrastructure.
       </p>
     </td>
