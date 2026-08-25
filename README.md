@@ -1,187 +1,102 @@
+# Enes Yesil
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=04671F&background=74747400&center=true&vCenter=true&width=435&height=100&lines=Enes+Yesil+;Software+Engineer+" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-  Building reliable systems with clear contracts, observable execution,
-  and boring-by-design infrastructure.
-   
-</p>
+## Platform Engineer - AI, ML & Analytics Infrastructure
 
-<p align="center">
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=enesyesil&style=flat&color=0e7490" />
-</p>
+Designing and coding the platforms behind AI, ML, and analytics—from backend services and orchestration to governed data systems and observable delivery.
 
-<hr/>
-<table align="center">
-  <tr>
-    <td align="center">
+[Website](https://enesyesil.me) · [LinkedIn](https://www.linkedin.com/in/me-enesyesil/) · [Email](mailto:me.enesyesil@gmail.com)
 
-[![Website](https://img.shields.io/badge/Website-enesyesil.me-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enesyesil.me)
+## What I build
 
-</td>
-    <td align="center">
+I work across software and infrastructure, building the services, APIs, workers, orchestration, and automation that make AI, ML, and analytics platforms reliable.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-me--enesyesil-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-enesyesil/)
+- **Platform software** built with Go, Python, TypeScript, and SQL: backend services, APIs, workers, orchestration, and automation.
+- **AI, ML, and Analytics foundations** spanning governed data, retrieval, agentic workflows, validation, and controlled access.
+- **Operational systems** built with infrastructure as code, automated delivery, observability, and resilience patterns.
+- **Claude Certified Architect**
 
-</td>
-    <td align="center">
+## Production work
 
-[![Email](https://img.shields.io/badge/Email-me.enesyesil%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.enesyesil@gmail.com)
+At **RAVL**, I work as a **Software Engineer** supporting an enterprise analytics platform for a **major Canadian financial institution**. I build software and automation for Azure Databricks and Unity Catalog platforms, including Terraform modules, GitHub Actions delivery and change-management workflows, Azure networking, storage, identity, and permissions, plus governed integration between on-premises analytics systems and cloud data platforms.
 
-</td>
-  </tr>
-</table>
+- Built an AI-assisted knowledge-base workflow for **400+ teams**, reducing token usage by **30%** and improving RAG retrieval efficiency by **up to 20%**.
+- Built version-management automation that reduced manual effort by **approximately 40%**, and consolidated Databricks init-script migrations into a single-step deployment path.
+- Designed governed integration across an on-premises analytics platform, Azure Databricks, and Unity Catalog; automated shared-resource availability and ownership tracking to save **approximately 2–3 hours per sprint or feature-development cycle**.
 
+Earlier, through York University's **BEST** program, I built an AI-powered business intelligence platform with Go-based orchestration, distributed Spark and MLlib pipelines, Apache Iceberg, PostgreSQL, pgvector, Redis, natural-language research workflows, and Prometheus observability. I completed my BSc in Computer Science at York University in December 2025.
 
+## Selected systems
 
-
-<hr/>
-
-<h2> BUILDING NOW</h2>
+Personal systems exploring AI orchestration, data processing, and event-driven architecture:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/InfraUp">→ InfraUp</a></h3>
+      <h3><a href="https://github.com/enesyesil/atlas-fabric">Atlas Fabric</a></h3>
       <p>
-        Discovery website for self-hosted open source alternatives to SaaS tools.
+        An experimental, LLM-assisted temporal data pipeline for reconstructing historical boundary datasets. A LangGraph generator/reviewer loop combines research and classification with GeoPandas and Shapely processing, deterministic validation, temporal consistency checks, and a FastAPI serving layer.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/atlas-fabric">→ Atlas Fabric</a></h3>
+      <h3><a href="https://github.com/enesyesil/issuesight">IssueSight</a></h3>
       <p>
-        Research-driven system exploring how to construct usable historical
-        boundary datasets when clean public data does not exist.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/issuesight">→ IssueSight</a></h3>
-      <p>
-        GitHub issue context-bridge with LLM assistance to help engineers
-        understand issues faster and reduce back-and-forth.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/agentboxkit">→ AgentBoxKit</a></h3>
-      <p>
-        Secure, policy-aware runtime sandbox kit for controlled agent execution and
-        workflow isolation.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/backenderer">→ Backenderer</a></h3>
-      <p>
-        Lightweight deployment kit built around infra-as-code for
-        shipping backends fast and reliably.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>→ Current Direction</h3>
-      <p>
-        Focused on platform engineering, distributed systems, cloud & data
-        infra, and agentic automation — with emphasis on reliability
-        and production-grade infrastructure.
+        An event-driven AI platform that turns GitHub issues into architectural context, prerequisite maps, and implementation guidance. Go workers use Redis Streams, distributed locking, caching, PostgreSQL, Next.js, and LLM integration to separate ingestion, processing, and serving.
       </p>
     </td>
   </tr>
 </table>
 
+Secondary work: [Fisor Builder](https://github.com/enesyesil/fisor-builder), a natural-language-to-structured-dataset research pipeline; and [InfraUp](https://github.com/enesyesil/InfraUp), a self-hosted software catalog backed by a Go, Next.js, and PostgreSQL registry stack.
 
+## Core toolkit
 
+### Data platforms
 
-<hr/>
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-1F6FEB?style=flat-square&logo=apache&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Lake](https://custom-icon-badges.demolab.com/badge/Azure_Data_Lake-0078D4?style=flat-square&logo=azure&logoColor=white)
 
-<h2> STACK</h2>
+### AI systems
 
-<h3>Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Shell-0b1220?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+RAG · agentic workflows · LLM orchestration
 
-<h3>Infrastructure</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Terraform-0b1220?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Prometheus-0b1220?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<h3>Cloud &amp; Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-0b1220?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0b1220?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/Hetzner-0b1220?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/Dokploy-0b1220?style=for-the-badge" alt="Dokploy" />
-  <img src="https://img.shields.io/badge/Coolify-0b1220?style=for-the-badge" alt="Coolify" />
-</p>
+### Backend and distributed systems
 
-<h3>Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+REST APIs · event-driven architecture
 
-<h3>Data / Analytics</h3>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-0b1220?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-0b1220?style=for-the-badge" alt="Apache Iceberg" />
-  <img src="https://img.shields.io/badge/Azure_Data_Lake-0b1220?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Lake" />
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<h3>Concepts</h3>
-<p>
-  <img src="https://img.shields.io/badge/System_Design-0b1220?style=for-the-badge" alt="System Design" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-0b1220?style=for-the-badge" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Cloud_Architecture-0b1220?style=for-the-badge" alt="Cloud Architecture" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-0b1220?style=for-the-badge" alt="Agentic Workflows" />
-  <img src="https://img.shields.io/badge/Observability-0b1220?style=for-the-badge" alt="Observability" />
-  <img src="https://img.shields.io/badge/Orchestration-0b1220?style=for-the-badge" alt="Orchestration" />
-  <img src="https://img.shields.io/badge/Data_Pipelines-0b1220?style=for-the-badge" alt="Data Pipelines" />
-  <img src="https://img.shields.io/badge/Virtual_Machines-0b1220?style=for-the-badge" alt="Virtual Machines" />
-  <img src="https://img.shields.io/badge/LLMs-0b1220?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0b1220?style=for-the-badge" alt="Machine Learning" />
-</p>
+### Platform engineering
 
-<hr/>
+![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 
-<h2> STATS</h2>
+### Data and state
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=enesyesil&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"
-    alt="enesyesil GitHub stats"
-  />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=enesyesil&theme=highcontrast&hide_border=true"
-    alt="enesyesil GitHub streak"
-  />
-</p>
+### Observability
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<hr/>
+## Current direction
 
-<p align="center">
-  <sub>
-    Expect prototypes, experiments, and code that probably should not work — but sometimes does.
-  </sub>
-</p>
+I am continuing to deepen my work in AI and ML infrastructure, enterprise analytics platforms, distributed systems, workload orchestration, data and AI governance, and production observability.
+
+> Clear contracts. Governed data. Observable execution.
