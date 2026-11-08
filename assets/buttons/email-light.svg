@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="50" viewBox="0 0 118 50" role="img" aria-label="Email">
+<title>Email</title>
+<rect x="4" y="4" width="114" height="40" fill="#000000"/>
+<rect width="114" height="40" fill="#fffbeb"/>
+<rect width="40" height="40" fill="#dc2626"/>
+<g fill="#ffffff" transform="translate(10 10) scale(0.8333)"><path d="M2.038 5.61A2.01 2.01 0 0 0 2 6v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6c0-.12-.01-.238-.03-.352l-.866.65-7.89 6.032a2 2 0 0 1-2.429 0L2.884 6.288l-.846-.677Z" /> <path d="M20.677 4.117A1.996 1.996 0 0 0 20 4H4c-.225 0-.44.037-.642.105l.758.607L12 10.742 19.9 4.7l.777-.583Z" /></g>
+<path d="M39 0V40" stroke="#111827" stroke-width="2"/>
+<path fill="#111827" transform="translate(54 24.90)" d="M1.15 0V-9.8H7.34V-8.04H3V-5.8H7.17V-4.03H3V-1.76H7.5V0ZM9.58 0V-9.8H12.82L13.38 -2.44V-1.01H13.72V-2.44L14.28 -9.8H17.53V0H15.85V-6.55L16.02 -8.79H15.68L14.95 0H12.18L11.42 -8.79H11.09L11.26 -6.55V0ZM18.75 0 21.08 -9.8H24.56L26.89 0H24.96L24.49 -2.1H21.15L20.68 0ZM21.55 -3.86H24.08L22.95 -8.88H22.69ZM28.81 0V-1.76H31.16V-8.04H28.81V-9.8H35.36V-8.04H33.01V-1.76H35.36V0ZM38.22 0V-9.8H40.07V-1.76H44.52V0Z"/>
+<rect x="1" y="1" width="112" height="38" fill="none" stroke="#111827" stroke-width="2"/>
+</svg>

@@ -4,7 +4,13 @@
 
 Designing and coding the platforms behind AI, ML, and analytics—from backend services and orchestration to governed data systems and observable delivery.
 
-[Website](https://enesyesil.me) · [LinkedIn](https://www.linkedin.com/in/me-enesyesil/) · [Email](mailto:me.enesyesil@gmail.com)
+<p>
+  <a href="https://enesyesil.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/website-dark.svg"><img src="assets/buttons/website-light.svg" alt="Website: enesyesil.me" height="50"></picture></a>
+  <a href="https://www.linkedin.com/in/me-enesyesil/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img src="assets/buttons/linkedin-light.svg" alt="LinkedIn" height="50"></picture></a>
+  <a href="mailto:me.enesyesil@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><img src="assets/buttons/email-light.svg" alt="Email" height="50"></picture></a>
+  <a href="https://enesyesil.me/Resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-dark.svg"><img src="assets/buttons/resume-light.svg" alt="Resume" height="50"></picture></a>
+  <a href="https://enesyesil.me/Blog"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/blog-dark.svg"><img src="assets/buttons/blog-light.svg" alt="Blog" height="50"></picture></a>
+</p>
 
 ## What I build
 
