@@ -27,26 +27,24 @@ Earlier, through York University's **BEST** program, I built an AI-powered busin
 
 ## Selected systems
 
-Personal systems exploring AI orchestration, data processing, and event-driven architecture:
+Personal products I build end to end, from models and engines to delivery pipelines:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/atlas-fabric">Atlas Fabric</a></h3>
+      <h3><a href="https://moneyballscoutml.com">Moneyball Scout</a></h3>
       <p>
-        An experimental, LLM-assisted temporal data pipeline for reconstructing historical boundary datasets. A LangGraph generator/reviewer loop combines research and classification with GeoPandas and Shapely processing, deterministic validation, temporal consistency checks, and a FastAPI serving layer.
+        A live football scouting service that finds players whose market value doesn't match how they play. A quota-aware worker ingests API-Football and Transfermarkt data into PostgreSQL every day, then explainable models score it: learned match ratings, Kalman-filtered form, Dixon–Coles team strength, and LightGBM quantile valuation with SHAP and conformal intervals. Runs are logged to MLflow and served through FastAPI to a server-rendered React app.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/enesyesil/issuesight">IssueSight</a></h3>
+      <h3><a href="https://voyrai.com">Voyrai</a></h3>
       <p>
-        An event-driven AI platform that turns GitHub issues into architectural context, prerequisite maps, and implementation guidance. Go workers use Redis Streams, distributed locking, caching, PostgreSQL, Next.js, and LLM integration to separate ingestion, processing, and serving.
+        Short interactive scenarios where you make the calls, then see which choice decided how it ended. A pure, integer-only Go engine compiles natively for a CLI simulator and to WebAssembly in a Web Worker, so every run replays exactly from a seed and its choices. Scenarios publish only after schema, static, Monte Carlo, and human-approval gates, and are played in a Vite and React app.
       </p>
     </td>
   </tr>
 </table>
-
-Secondary work: [Fisor Builder](https://github.com/enesyesil/fisor-builder), a natural-language-to-structured-dataset research pipeline; and [InfraUp](https://github.com/enesyesil/InfraUp), a self-hosted software catalog backed by a Go, Next.js, and PostgreSQL registry stack.
 
 ## Core toolkit
 
